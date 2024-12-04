@@ -1,5 +1,5 @@
-C
+ÿ
 
-real	0m0.071s
-user	0m0.015s
-sys	0m0.000s
+real	0m0,004s
+user	0m0,001s
+sys	0m0,015s
