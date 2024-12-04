@@ -93,5 +93,3 @@ A paralelização foi planejada com base na estrutura natural do problema:
 - As alterações foram projetadas para serem transparentes em relação à entrada e saída do programa, mantendo a funcionalidade original.
 
 ---
-
-Se houver perguntas específicas ou a necessidade de ajustes futuros, estamos à disposição para discutir!  
