@@ -1,5 +1,7 @@
 # projeto_IPPD
-Projeto de IPPD
+Projeto de IPPD do grupo 15:
+ - Gustavo Henrique Baliero Lima (@BalieroGu)
+ - Rebeca Mascara Furtado (@NaoTemGit)
 
 # O problema: knn (nearest neighbours)
 
